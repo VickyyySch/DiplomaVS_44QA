@@ -92,5 +92,4 @@ public class BurgerTest {
 
         assertEquals("Incorrect burger receipt", expected, actual);
     }
-
 }

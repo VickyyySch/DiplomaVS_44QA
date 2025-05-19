@@ -20,5 +20,4 @@ public class Bun {
     public float getPrice() {
         return price;
     }
-
 }

@@ -34,5 +34,4 @@ public class IngredientParametrizedTest {
 
         assertEquals("Incorrect values ingredient type", type, actual);
     }
-
 }
