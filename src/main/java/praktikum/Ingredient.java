@@ -28,5 +28,4 @@ public class Ingredient {
         return type;
     }
 
-
 }
