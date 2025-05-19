@@ -28,4 +28,3 @@ public class IngredientTypeParametrizedTest {
         assertEquals("Incorrect name ingredient type", name, type.name());
     }
 }
-

@@ -31,7 +31,7 @@ public class BurgerParametrizedTest {
 
     @Parameterized.Parameters(name = "{index} : price = {1}")
     public static Object[][] getBunData() {
-        return new Object[][] {
+        return new Object[][]{
                 {"original-free", 0.0f},
                 {"original", 200.0f}
         };
