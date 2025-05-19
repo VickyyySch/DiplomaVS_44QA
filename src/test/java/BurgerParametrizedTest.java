@@ -48,4 +48,5 @@ public class BurgerParametrizedTest {
 
         assertEquals("Incorrect values burger price", expected, actual, 0);
     }
+
 }

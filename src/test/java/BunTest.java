@@ -27,4 +27,5 @@ public class BunTest {
 
         assertEquals("Incorrect values bun price", expected, actual, 0);
     }
+
 }

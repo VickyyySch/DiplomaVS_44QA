@@ -28,4 +28,5 @@ public class IngredientTypeTest {
 
         assertEquals("Incorrect values ingredient price", expected, actual, 0);
     }
+
 }
