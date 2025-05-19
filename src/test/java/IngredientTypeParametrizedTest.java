@@ -22,7 +22,6 @@ public class IngredientTypeParametrizedTest {
                 {IngredientType.FILLING, "FILLING"}
         };
     }
-
     @Test
     public void checkIngredientTypeName() {
         assertEquals("Incorrect name ingredient type", name, type.name());
